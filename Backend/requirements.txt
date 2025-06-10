@@ -1,0 +1,7 @@
+fastapi==0.109.1
+uvicorn==0.27.0
+python-jose==3.3.0  # JWT
+passlib==1.7.4      # Hashing
+python-multipart==0.0.9
+sqlite3==3.42.0     # Ya incluido en Python
+pandas==2.2.1       # Para exportar Excel
